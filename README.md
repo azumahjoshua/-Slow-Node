@@ -25,3 +25,4 @@
 - Dockerfile Un fichier contenant des instructions sur la façon de traduire une application en une image pouvant être exécutée dans des conteneurs
 - Éphémère Propriété logicielle où l'on s'attend à ce qu'une application soit éphémère
 - Image Un instantané des dépendances et du code utilisés par les conteneurs Docker pour exécuter une application
+- Processus système Un programme informatique exécuté par le système d'exploitation
